@@ -1,4 +1,4 @@
-<h1>Hi, I'm Giovanni, an <a href="www.linkedin.com/in/giovanni-briones-a36a0a223">IT Professional</a>☺</h1>
+<h1>Hi, I'm Giovanni, an <a href="www.linkedin.com/in/giovanni-briones-li">IT Professional</a>☺</h1>
 
 <h2> ⭐ Featured Projects:</h2>
 
@@ -26,4 +26,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/giovanni-briones-a36a0a223
+[linkedin]: https://www.linkedin.com/in/giovanni-briones-li
